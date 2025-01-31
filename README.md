@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anand-Analyst
 - 👀 I’m interested in Data Analytics Domain
-- 🌱 I’m currently learning Data Analytics Skills
-- 💞️ I’m looking to collaborate on Jupiter Notebook, MySQL workbench,PowerBi
+- 🌱 I’m currently working as Sr. Customer Service Associate at Teleperformance
+- 💞️ I’m looking to collaborate on Excel,Jupiter Notebook, MySQL workbench,PowerBi
 - 📫 You Can Contact me at anandsrivastav8004@gmail.com
 
 <!---
